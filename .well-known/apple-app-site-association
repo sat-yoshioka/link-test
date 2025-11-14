@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "L8D9X742LQ.jp.cocoweb.pre.staging",
+        "paths": [
+          "/topics/*"
+        ]
+      }
+    ]
+  }
+}
