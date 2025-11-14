@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.cocoweb.pre",
+    "sha256_cert_fingerprints":
+    ["9B:80:5C:30:3E:5C:18:91:D9:8E:B1:54:91:12:97:FC:CE:55:D1:11:EE:F5:EB:7A:7E:CE:71:F2:A0:DE:2B:86"]
+  }
+}]
